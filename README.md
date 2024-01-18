@@ -1,17 +1,17 @@
 # Simple MERN Project - User editor
 
-## Insallation
+## Installation
 
-Install Server:
+### Install Server:
 `npm run inst-server`
 
-Install Client:
+### Install Client:
 `npm run inst-client`
 
 ## Run Project
 
-Run Server:
+### Run Server:
 `npm run server`
 
-Run Client:
+### Run Client:
 `npm run client`
