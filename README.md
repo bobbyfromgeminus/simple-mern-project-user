@@ -3,10 +3,10 @@
 ## Installation
 
 ### Install Server:
-`npm run inst-server`
+`npm run install-server`
 
 ### Install Client:
-`npm run inst-client`
+`npm run install-client`
 
 ## Run Project
 
