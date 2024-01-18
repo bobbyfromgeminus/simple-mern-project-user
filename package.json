@@ -1,0 +1,9 @@
+{
+  "name": "simple-mern",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "server": "node ./server/server.js",
+    "client": "cd ./client && npm start"
+  }
+}
